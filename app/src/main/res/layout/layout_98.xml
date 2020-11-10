@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <Button
+        android:id="@+id/button98"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:text="98 Button"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:background="@android:color/holo_green_light"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/textview98"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="98 TextView"
+        android:textColor="#000000"
+        android:gravity="center_horizontal"
+        android:textSize="24sp"
+        android:layout_marginTop="16dp" />
+
+</merge>
